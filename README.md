@@ -1,3 +1,3 @@
 # UBB
 * ❤ Semester 1
-    * [Fundamentals of Programming](../master/Fundamentals-of-Programming)
+    * [Fundamentals of Programming](https://github.com/AndreiZavo/Fundamentals-of-Programming)
