@@ -2,4 +2,12 @@
 * ❤ Semester 1
     * 🐍[Fundamentals of Programming](https://github.com/AndreiZavo/Fundamentals-of-Programming)
     * 💾[Computer System Arhitecute](https://github.com/AndreiZavo/Computer-System-Arhitecture)
-*
+* 🧡 Semester 2
+    * 🧭[Graph Algorithms](https://github.com/AndreiZavo/Graph-Algorithms)
+    * 📮[Data Structures and Algorithms](https://github.com/AndreiZavo/Data-Structures-and-Algorithms)
+    * 🧧[Object Oriented Programming](https://github.com/AndreiZavo/Object-Oriented-Programming)
+* 💚 Semester 3
+    * 📀[Advanced Programming Methods](https://github.com/AndreiZavo/Advanced-Programming-Methods)
+    * 💻[Computer Networks](https://github.com/AndreiZavo/Computer-Networks)
+    * 📂[Databases](https://github.com/AndreiZavo/Databases)
+    * 📈[Logic and Functional Programming](https://github.com/AndreiZavo/Logic-and-Funcitonal-Programmig) 
