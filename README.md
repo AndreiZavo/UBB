@@ -10,4 +10,6 @@
     * 📀[Advanced Programming Methods](https://github.com/AndreiZavo/Advanced-Programming-Methods)
     * 💻[Computer Networks](https://github.com/AndreiZavo/Computer-Networks)
     * 📂[Databases](https://github.com/AndreiZavo/Databases)
-    * 📈[Logic and Functional Programming](https://github.com/AndreiZavo/Logic-and-Funcitonal-Programmig) 
+    * 📈[Logic and Functional Programming](https://github.com/AndreiZavo/Logic-and-Funcitonal-Programmig)
+* 💜 Semester 4
+   * 🕸[Web Programming](https://github.com/AndreiZavo/Web-Programming) 
