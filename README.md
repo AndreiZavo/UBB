@@ -13,3 +13,4 @@
     * 📈[Logic and Functional Programming](https://github.com/AndreiZavo/Logic-and-Funcitonal-Programmig)
 * 💜 Semester 4
    * 🕸[Web Programming](https://github.com/AndreiZavo/Web-Programming) 
+   * 🤖[Artificial Intelligence](https://github.com/AndreiZavo/Artificial-Intelligence)
