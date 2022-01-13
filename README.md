@@ -15,3 +15,8 @@
    * 🕸[Web Programming](https://github.com/AndreiZavo/Web-Programming) 
    * 🤖[Artificial Intelligence](https://github.com/AndreiZavo/Artificial-Intelligence)
    * 🧮[Database Managment Systems](https://github.com/AndreiZavo/Database-Managment-System)
+* 💛 Semester 5
+   * 🔔[Virtual Reality](https://github.com/AndreiZavo/Virtual-Reality)
+   * 👽[Formal Languages and Compiler Design](https://github.com/AndreiZavo/Formal-Languages-and-Compiler-Design)
+   * 📱[Mobie Applicatons](https://github.com/AndreiZavo/Mobile-Applications)
+   * 🛤[Parallel and distributed programming](https://github.com/AndreiZavo/Parallel-and-distributed-programming)
